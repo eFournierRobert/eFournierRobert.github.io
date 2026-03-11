@@ -1,7 +1,6 @@
 ---
 layout: post
 title: October Linux
-category: project
 excerpt_separator: <!--excerpt-end-->
 ---
 
@@ -34,7 +33,7 @@ install process and, only recently, did they started offering archinstall as an 
 For our distribution, we wanted to offer a complete and painless install process where you 
 only need to submit a configuration and the installer takes care of the rest for you.
 
-[Learn more about October installer.]()
+[Learn more about October installer.](/projects/october-installer)
 
 ### October ISO
 

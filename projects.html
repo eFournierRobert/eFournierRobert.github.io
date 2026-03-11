@@ -9,9 +9,11 @@ title: Projects
 </div>
 <div>
     {% for project in site.projects %}
-    <h3>
-        <a href="{{ project.url }}" class="simple-link">{{ project.title }}</a>
-    </h3>
-    <div class="muted">{{ project.excerpt }}</div>
+    {% if project.tag != "no_main_show" %}
+        <h3>
+            <a href="{{ project.url }}" class="simple-link">{{ project.title }}</a>
+        </h3>
+        <div class="muted">{{ project.excerpt }}</div>
+    {% endif %}
     {% endfor %}
 </div>
