@@ -40,7 +40,7 @@ only need to submit a configuration and the installer takes care of the rest for
 To install the operating system we needed an ISO. This is the project with everything needed
 to build a functional and bootable ISO that can install October Linux.
 
-[Learn more about October ISO.]()
+[Learn more about October ISO.](/projects/october-iso)
 
 ### October config
 
