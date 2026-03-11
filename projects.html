@@ -1,0 +1,17 @@
+---
+layout: secondary
+title: Projects
+---
+
+<div>
+    <h2>Projects</h2>
+    <p>Those are all projects I worked on in my free time.</p>
+</div>
+<div>
+    {% for project in site.projects %}
+    <h3>
+        <a href="{{ project.url }}" class="simple-link">{{ project.title }}</a>
+    </h3>
+    <div class="muted">{{ project.excerpt }}</div>
+    {% endfor %}
+</div>

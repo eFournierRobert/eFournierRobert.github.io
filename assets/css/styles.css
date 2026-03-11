@@ -63,6 +63,18 @@ a:hover {
     margin: 0 auto;
 }
 
+.muted {
+    color: var(--muted);
+}
+
+.simple-link {
+    text-decoration: none;
+}
+
+.simple-link:hover {
+    text-decoration: underline;
+}
+
 @media (max-width: 768px) {
     body {
         font-size: 1.1rem;
