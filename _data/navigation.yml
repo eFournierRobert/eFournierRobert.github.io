@@ -1,0 +1,6 @@
+- name: About me
+  link: about.html
+- name: Posts
+  link: posts.html
+- name: Projects
+  link: projects.html
