@@ -1,6 +1,8 @@
 plugins:
   - jekyll-target-blank
 
+url: "efournierrobert.github.io"
+
 collections:
   projects:
     output: true
