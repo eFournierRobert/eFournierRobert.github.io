@@ -48,7 +48,7 @@ October needed a configuration and this is the project containing it. By configu
 we mean fully working configurations for Hyprland, Quickshell and etc. All integrated as
 a single beautiful and usable unit.
 
-[Learn more about October config.]()
+[Learn more about October config.](/projects/october-config)
 
 ### Octoberctl
 

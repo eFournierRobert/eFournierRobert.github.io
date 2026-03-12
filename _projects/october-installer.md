@@ -102,7 +102,7 @@ With this, the installer will create all the partitions, users, setup
 the informations, install October config for each users and install all
 the extra packages mentionned.
 
-You probably saw AUR and, yes, October comes pre-installed with *Yet another Yogurt (yay)*
+You probably saw AUR and, yes, October comes pre-installed with Yet another Yogurt (yay)
 so users don't have to install an AUR helper by themselves. Any serious 
 Arch install will download packages from the AUR, so we might as well
 install it at install time.
@@ -116,7 +116,7 @@ The installation process is very straightforward. You take the configuration
 and give it to the installer either in *standard in* or in a file. It will
 simply parse it and install the system according to it.
 
-{% include image.md image-url="/assets/images/october-install-screencap.png" %}
+{% include image.md image-url="/assets/images/october/october-install-screencap.png" %}
 
 When it is done, you can reboot and it will just work out of the box. No extra
 configuration or installation needed.

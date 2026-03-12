@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-target-blank
+
 collections:
   projects:
     output: true
