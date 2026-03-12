@@ -56,4 +56,4 @@ We didn't want the users to manage the configuration by themselves, so we built 
 command line utility tool that manages it for you. It can update the configuration to 
 the latest changes available and manage the wallpapers you currently have.
 
-[Learn more about Octoberctl.]()
+[Learn more about Octoberctl.](/projects/octoberctl)
