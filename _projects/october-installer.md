@@ -116,7 +116,7 @@ The installation process is very straightforward. You take the configuration
 and give it to the installer either in *standard in* or in a file. It will
 simply parse it and install the system according to it.
 
-{% include image.md image-url="/assets/images/october/october-install-screencap.png" %}
+{% include image.md image-url="/october/october-install-screencap.png" %}
 
 When it is done, you can reboot and it will just work out of the box. No extra
 configuration or installation needed.
