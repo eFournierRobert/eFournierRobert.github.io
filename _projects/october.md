@@ -45,7 +45,7 @@ to build a functional and bootable ISO that can install October Linux.
 ### October config
 
 October needed a configuration and this is the project containing it. By configuration,
-we mean fully working configurations for Hyprland, Quickshell and etc. All integrated as
+we mean fully working configurations for Hyprland, Quickshell etc. All integrated as
 a single beautiful and usable unit.
 
 [Learn more about October config.](/projects/october-config)
