@@ -16,7 +16,7 @@ just install it like any other software. The installer has to prepare the comput
 for the installation and then install the operating system on it. This 
 process is a tricky one.
 
-Doing everything manually in the CLI is asking a lot to the user that probably just want
+Doing everything manually in the CLI is asking a lot to a user that probably just want
 a computer that works at the end. Even for users like us, it is fun the first 
 couple of times, but then it becomes a bit of a chore where you have to configure
 everything and then be greeted by... a barebone computer which means more 
@@ -24,7 +24,7 @@ manual configuration and installation. Scripts can help with all of this,
 but having it be done at install time makes the process of reinstalling a lot
 easier and painless.
 
-With October, we wanted to user to configure their informations and then let 
+With October, we wanted the user to configure their informations and then let 
 the installer do everything. You only need to configure, install and reboot. After 
 that, your computer should be ready to go, or at the very least, ready to install
 software on it.

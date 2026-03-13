@@ -12,7 +12,7 @@ Github repository: [october-config](https://github.com/october-os/october-config
 
 Most Linux distributions ship with an established desktop environment like KDE Plasma
 or GNOME. For this project, we didn't go with either since neither of us
-uses those. We're both [Hyprland](https://hypr.land/)  users and this is why
+uses those. We're both [Hyprland](https://hypr.land/) users and this is why
 we chose it for our distribution. Many choices in this configuration are based
 around Hyprland and Wayland.
 
@@ -32,7 +32,7 @@ lot of commands to the keyboard instead of heavily relying on the mouse.
 
 ## Quickshell
 
-[Quickshell](https://quickshell.org) is a toolkit to build UI shells using QtQuick. It lets us basically make
+[Quickshell](https://quickshell.org) is a toolkit for building UI shells using QtQuick. It lets us basically make
 a full UI shell from scratch in the QML scripting language. "UI shell" includes every 
 UI elements that could be "considered part of the system" to put it simply. Think of
 status bars, notifications, application launchers etc. All those things can be made
