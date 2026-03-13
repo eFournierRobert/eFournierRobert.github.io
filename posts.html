@@ -1,0 +1,17 @@
+---
+layout: secondary
+title: Posts
+---
+
+<div>
+    <h2>Posts</h2>
+    <p>Small articles I wrote about programming and computing.</p>
+</div>
+<div>
+    {% for post in site.posts %}
+    <h3>
+        <a href="{{ post.url }}" class="simple-link">{{ post.title }}</a>
+    </h3>
+    <div class="muted">{{ post.excerpt }}</div>
+    {% endfor %}
+</div>
