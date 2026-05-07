@@ -5,7 +5,7 @@ excerpt_separator: <!--excerpt-end-->
 ---
 
 <div class="muted">
-    HTTP Bittorrent tracker.
+    HTTP BitTorrent tracker.
 </div>
 <!--excerpt-end-->
 
@@ -14,7 +14,7 @@ excerpt_separator: <!--excerpt-end-->
 Github Repo: [Central Knot](https://github.com/eFournierRobert/central-knot)
 
 ---
-Central Knot is a HTTP tracker for the Bittorrent protocol. It follows
+Central Knot is a HTTP tracker for the BitTorrent protocol. It follows
 the specifications described in [BEP 3](https://bittorrent.org/beps/bep_0003.html) and [BEP 23](https://bittorrent.org/beps/bep_0023.html) of the protocol.
 
 The tracker exposes the endpoint `/announce` on the port 9000. This can be added to a list of
