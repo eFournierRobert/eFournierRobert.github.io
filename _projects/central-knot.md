@@ -13,6 +13,8 @@ excerpt_separator: <!--excerpt-end-->
 ---
 Github Repo: [Central Knot](https://github.com/eFournierRobert/central-knot)
 
+BitTorrent protocol: [Back to basics: BitTorrent](/2026/05/07/torrent.html)
+
 ---
 Central Knot is a HTTP tracker for the BitTorrent protocol. It follows
 the specifications described in [BEP 3](https://bittorrent.org/beps/bep_0003.html) and [BEP 23](https://bittorrent.org/beps/bep_0023.html) of the protocol.
