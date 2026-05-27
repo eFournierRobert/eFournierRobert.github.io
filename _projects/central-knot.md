@@ -11,7 +11,7 @@ excerpt_separator: <!--excerpt-end-->
 
 # Central Knot
 ---
-Github Repo: [Central Knot](https://github.com/eFournierRobert/central-knot)
+Codeberg Repo: [Central Knot](https://codeberg.org/efournierrobert/central-knot)
 
 BitTorrent protocol: [Back to basics: BitTorrent](/2026/05/07/torrent.html)
 
