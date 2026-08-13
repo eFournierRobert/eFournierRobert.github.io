@@ -13,6 +13,8 @@ excerpt_separator: <!--excerpt-end-->
 ---
 Codeberg Repo : [typewriter-os](https://codeberg.org/efournierrobert/typewriter-os)
 
+OS user space: [Modern operating systems](/2026/08/12/modern-os.html)
+
 ---
 
 Typewriter OS is a small, purpose-built CLI x86_64 operating system based on Linux 7.1.7. It has a fully custom user space written in Rust.
