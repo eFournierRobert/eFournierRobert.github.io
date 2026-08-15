@@ -33,6 +33,7 @@ This OS was made to be closer to an embedded device OS rather than a desktop Lin
 stores both the persistent user storage the system storage.
 
 The image is designed to boot using UEFI firmware and contains two partitions:
+
 - a boot partition;
 - a user-storage partition.
 
