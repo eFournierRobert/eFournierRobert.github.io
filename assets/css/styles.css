@@ -1,10 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap");
-@import "gruvbox.dark.css";
 
 :root {
     --bg: #f2efe9;
     --text: #1c1c1a;
     --muted: #7a6e5f;
+    --bg-codeblock: #493F2B;
+    --text-codeblock: whitesmoke;
 }
 
 body {
@@ -70,8 +71,16 @@ img {
     margin: 0 auto;
 }
 
-.muted {
+.preview i {
     color: var(--muted);
+}
+
+.preview a {
+    font-weight: bold;
+}
+
+.preview a p {
+    margin-bottom: 0px;
 }
 
 .simple-link {
@@ -80,6 +89,17 @@ img {
 
 .simple-link:hover {
     text-decoration: underline;
+}
+
+pre {
+   overflow: scroll;
+   background-color: var(--bg-codeblock);
+   color: var(--text-codeblock);
+   border-radius: 5px;
+}
+
+code {
+    font-size: 1.2rem;
 }
 
 @media (max-width: 768px) {
