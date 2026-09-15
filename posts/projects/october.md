@@ -31,14 +31,14 @@ install process and, only recently, did they started offering archinstall as an 
 For our distribution, we wanted to offer a complete and painless install process where you 
 only need to submit a configuration and the installer takes care of the rest for you.
 
-[Learn more about October installer.](/projects/october-installer)
+[Learn more about October installer.](/posts/projects/october-installer.html)
 
 ### October ISO
 
 To install the operating system we needed an ISO. This is the project with everything needed
 to build a functional and bootable ISO that can install October Linux.
 
-[Learn more about October ISO.](/projects/october-iso)
+[Learn more about October ISO.](/posts/projects/october-iso.html)
 
 ### October config
 
@@ -46,7 +46,7 @@ October needed a configuration and this is the project containing it. By configu
 we mean fully working configurations for Hyprland, Quickshell etc. All integrated as
 a single beautiful and usable unit.
 
-[Learn more about October config.](/projects/october-config)
+[Learn more about October config.](/posts/projects/october-config.html)
 
 ### Octoberctl
 
@@ -54,4 +54,4 @@ We didn't want the users to manage the configuration by themselves, so we built 
 command line utility tool that manages it for you. It can update the configuration to 
 the latest changes available and manage the wallpapers you currently have.
 
-[Learn more about Octoberctl.](/projects/octoberctl)
+[Learn more about Octoberctl.](/posts/projects/octoberctl.html)
