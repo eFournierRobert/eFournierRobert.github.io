@@ -4,19 +4,15 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="/assets/css/styles.css" />
-        <title>Posts</title>
+        <title>{{ title }}</title>
     </head>
     <body>
         <div class="secondary-page">
             <div class="index-link">
                 <a href="/"><i>Elliott Fournier-Robert</i></a>
             </div>
-            <div>
-                <h2>Posts</h2>
-                <p>Small articles I wrote about programming and computing.</p>
-            </div>
-            <div>
-                {{ posts }}
+            <div class="text">
+                {{ content }}
             </div>
         </div>
     </body>

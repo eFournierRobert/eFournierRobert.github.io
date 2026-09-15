@@ -1,8 +1,0 @@
-plugins:
-  - jekyll-target-blank
-
-url: "elliottfournierrobert.ca"
-
-collections:
-  projects:
-    output: true
