@@ -11,7 +11,7 @@ tags:
 ---
 Codeberg Repo : [akernel](https://codeberg.org/efournierrobert/akernel/)
 
-AI states: [Back to basics: Artificial intelligence and states](/2026/06/25/ai-states.html)
+AI states: [Back to basics: Artificial intelligence and states](/posts/btob/2026-06-25-ai-states.html)
 
 ---
 

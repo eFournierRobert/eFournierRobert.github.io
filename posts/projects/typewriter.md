@@ -11,7 +11,7 @@ tags:
 ---
 Codeberg Repository : [typewriter-os](https://codeberg.org/efournierrobert/typewriter-os)
 
-Related article: [Modern operating systems](/2026/08/12/modern-os.html)
+Related article: [Modern operating systems](/posts/posts/2026-08-12-modern-os.html)
 
 ---
 

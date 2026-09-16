@@ -11,7 +11,7 @@ tags:
 ---
 Codeberg Repo: [Central Knot](https://codeberg.org/efournierrobert/central-knot)
 
-BitTorrent protocol: [Back to basics: BitTorrent](/2026/05/07/torrent.html)
+BitTorrent protocol: [Back to basics: BitTorrent](/posts/btob/2026-05-07-torrent.html)
 
 ---
 Central Knot is a HTTP tracker for the BitTorrent protocol. It follows
