@@ -1,11 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap");
 
 :root {
-    --bg: #f2efe9;
-    --text: #1c1c1a;
+    --bg: whitesmoke;
+    --text: black;
     --muted: #7a6e5f;
-    --bg-codeblock: #493F2B;
-    --text-codeblock: whitesmoke;
+    --bg-codeblock: #eee;
 }
 
 body {
@@ -96,6 +95,7 @@ pre {
    background-color: var(--bg-codeblock);
    color: var(--text-codeblock);
    border-radius: 5px;
+   padding: 2px 10px;
 }
 
 code {
