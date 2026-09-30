@@ -30,7 +30,7 @@ jobs:
       - name: Display Go version
         run: go version
       - name: Clone guten
-        run: git clone https://codeberg.org/efournierrobert/guten.git
+        run: git clone https://github.com/eFournierRobert/guten.git
       - name: Build guten
         run: cd guten && go build -o guten main.go
       - name: Build website

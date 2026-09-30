@@ -9,7 +9,7 @@ tags:
 
 # Typewriter OS
 ---
-Codeberg Repository : [typewriter-os](https://codeberg.org/efournierrobert/typewriter-os)
+GitHub Repository: [typewriter-os](https://github.com/eFournierRobert/typewriter-os)
 
 Related article: [Modern operating systems](/posts/posts/2026-08-12-modern-os.html)
 

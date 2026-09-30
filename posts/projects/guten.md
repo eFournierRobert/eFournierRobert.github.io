@@ -9,7 +9,7 @@ tags:
 
 # Guten
 ---
-Codeberg Repo: [guten](https://codeberg.org/efournierrobert/guten)
+GitHub Repo: [guten](https://github.com/eFournierRobert/guten)
 
 Why I made Guten : [The joys of custom tooling](/posts/posts/guten.html)
 

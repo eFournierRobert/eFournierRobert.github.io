@@ -9,7 +9,7 @@ tags:
 
 # Central Knot
 ---
-Codeberg Repo: [Central Knot](https://codeberg.org/efournierrobert/central-knot)
+GitHub Repo: [Central Knot](https://github.com/eFournierRobert/central-knot)
 
 BitTorrent protocol: [Back to basics: BitTorrent](/posts/btob/2026-05-07-torrent.html)
 
