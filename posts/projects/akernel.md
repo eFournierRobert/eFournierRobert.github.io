@@ -9,7 +9,7 @@ tags:
 
 # Assistant Kernel
 ---
-Codeberg Repo : [akernel](https://codeberg.org/efournierrobert/akernel/)
+GitHub Repo: [akernel](https://github.com/eFournierRobert/akernel)
 
 AI states: [Back to basics: Artificial intelligence and states](/posts/btob/2026-06-25-ai-states.html)
 
